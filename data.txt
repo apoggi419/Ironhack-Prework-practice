@@ -1,0 +1,3 @@
+Name: Alejandro Poggi
+Age: 24
+Favorite color: red
